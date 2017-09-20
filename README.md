@@ -11,5 +11,6 @@ This is a song guessing game designed to help make brainstorming process fun and
 
 ### Implementation:
 * Build a Postman collection that can fetch songs from a online music service.
+  There are several music services to select, with Spotify being a top pick.
 * Build an Alexa Skill to be able to interact with the players.
 * Build a Postman collection that can post results to Slack. 

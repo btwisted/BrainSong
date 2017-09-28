@@ -14,3 +14,5 @@ This is a song guessing game designed to help make brainstorming process fun and
   There are several music services to select, with Spotify being a top pick.
 * Build an Alexa Skill to be able to interact with the players.
 * Build a Postman collection that can post results to Slack. 
+
+Andrew contributed a link to http://static.echonest.com/enspex/ which points to a set of Echo Nest and Spotify APIs. 
